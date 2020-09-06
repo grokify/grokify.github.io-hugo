@@ -6,28 +6,9 @@
     <description>Recent content in Categories on Grokify</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://grokify.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>syntax</title>
-      <link>https://grokify.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grokify.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://grokify.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://grokify.github.io/categories/themes/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

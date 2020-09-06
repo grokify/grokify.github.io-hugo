@@ -1,9 +1,13 @@
-# Grokify Blog
+# Grokify Web Site
 
 ## Deployment Guide
 
+### Initialize Hugo
+
+```
 $ brew install hugo
 $ hugo new site <sitename>
+```
 
 ```
 Congratulations! Your new Hugo site is created in /path/to/grokify.
@@ -20,11 +24,15 @@ Just a few more steps and you're ready to go:
 Visit https://gohugo.io/ for quickstart guide and full documentation
 ```
 
+### Add Theme
+
 ```
 $ git init
 $ git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity
 $ cp -a themes/hugo-clarity/exampleSite/* .
 ```
+
+### Add Disqus
 
 `config.toml`
 
@@ -38,5 +46,7 @@ disqusShortname = "grokify"
 ```
     {{ template "_internal/disqus.html" . }}
 ```
+
+### Add Menu
 
 `data/menu.yaml`

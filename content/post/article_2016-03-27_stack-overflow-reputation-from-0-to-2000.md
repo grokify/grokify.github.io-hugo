@@ -7,6 +7,7 @@ tags = [
 ]
 url = "/dev-relations/stack-overflow-reputation-from-0-to-2000"
 featured = true
+disqus_identifier = "/dev-relations/stack-overflow-reputation-from-0-to-2000"
 +++
 
 Stack Overflow is a great site for programming Q&A in general and a great resource for growing developer programs as well. From a developer program perspective, 2000 reputation is an ideal target since it provides the ability to edit any post, treating Stack Overflow more like a wiki, and the ability to create tags.

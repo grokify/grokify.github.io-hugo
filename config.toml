@@ -1,13 +1,14 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://example.com/"  # Include trailing slash
-title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+baseurl = "https://grokify.github.io/"  # Include trailing slash
+title = "Grokify"
+author = "John Wang"
+copyright = "Copyright © 2008–2020, John Wang; all rights reserved."
 # canonifyurls = true
 paginate = 10
 publishdir = "docs"
 theme = "hugo-clarity"
+disqusShortname = "grokify"
 
 [markup]
   [markup.highlight]
@@ -26,8 +27,8 @@ theme = "hugo-clarity"
     xhtml = false
 
 [params]
-author = "Jane Doe"
-twitter = "@janedoe"
+author = "John Wang"
+twitter = "@grokify"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
 

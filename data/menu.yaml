@@ -1,14 +1,21 @@
 - name: Home
   link: /
-- name: Archives
-  link: post/rich-content/
+# - name: Archives
+#   link: post/rich-content/
 # - name: Mus
 #   link: /categories/music/
 - name: Links
   submenu:
-    - name: LinkedIn
-      link: https://www.linkedin.com/
+    - name: GitHub
+      link: https://github.com/grokify
+    - name: Stack Overflow
+      link: https://stackoverflow.com/users/1908967/grokify
     - name: Twitter
-      link: https://twitter.com/
+      link: https://twitter.com/grokify
 - name: About
   link: about/
+  submenu:
+    - name: Author
+      link: about/
+    - name: Technology
+      link: about/technology/

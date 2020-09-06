@@ -56,5 +56,145 @@
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Stack Overflow Reputation - From 0 to 2000</title>
+      <link>https://grokify.github.io/dev-relations/stack-overflow-reputation-from-0-to-2000/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/dev-relations/stack-overflow-reputation-from-0-to-2000/</guid>
+      <description>Stack Overflow is a great site for programming Q&amp;amp;A in general and a great resource for growing developer programs as well. From a developer program perspective, 2000 reputation is an ideal target since it provides the ability to edit any post, treating Stack Overflow more like a wiki, and the ability to create tags.
+When I was brought on as the head of Platform Product Management at RingCentral, I was also given the responsibility for building up our community efforts.</description>
+    </item>
+    
+    <item>
+      <title>Static Knowledgebase Idea</title>
+      <link>https://grokify.github.io/ideas/static-knowledgebase/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/ideas/static-knowledgebase/</guid>
+      <description>I was recently thinking about developer-oriented knowledgebases and thought it would be a great idea to build a knowledgebase on a static documentation engine like MkDocs or Sphinx. I imagine a project like this could be very useful to developer projects and would love to see it developed.
+This could be done by adding a knowledgebase layout homepage with an added search capability to build out a service similar to Desk.</description>
+    </item>
+    
+    <item>
+      <title>Glip Inbound Webhook SDKs</title>
+      <link>https://grokify.github.io/glip/inbound-webhook-sdks/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/glip/inbound-webhook-sdks/</guid>
+      <description>&lt;p&gt;I recently put together two SDKs to wrap Glip’s inbound webhooks when there’s a desire to have data from other sites integrated into Glip alerts.&lt;/p&gt;
+&lt;p&gt;I originally built the library as a &lt;a href=&#34;https://github.com/grokify/glip-poster-ruby&#34;&gt;Ruby SDK&lt;/a&gt; since this is one of my go-to languages for quick prototyping, however, after learning that many chat users may not be developers with the means to run their own servers, I looked into writing this as a Google App and a Swift iOS app. The Google App is still in development but the &lt;a href=&#34;https://github.com/grokify/glip-sdk-swift&#34;&gt;Swift SDK&lt;/a&gt; is out.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Read the Docs and Slate Integration Idea</title>
+      <link>https://grokify.github.io/ideas/readthedocs-slate-integration/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/ideas/readthedocs-slate-integration/</guid>
+      <description>Read the Docs and Slate are two great open source documentation tools. Each has advantages with Read the Docs supporting repo-based documentation and Slate supporting 3-column layout. These advantages make both very useful for documenting SDKs. Given that each has their own strengths, it would be great to be able to use these together. Here’s an idea for single sourcing content and publishing into both.
+Situation Read the Docs is powerful because it allows documentation to reside directly in a SDK repository.</description>
+    </item>
+    
+    <item>
+      <title>The Learning Pipeline - How to Keep Learning</title>
+      <link>https://grokify.github.io/learning/the-learning-pipeline/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/learning/the-learning-pipeline/</guid>
+      <description>I was able to participate on Proofpoint’s Summer Intern panel discussion today and wanted to share my answer to one of the questions: how do you keep learning. When this question came up, I had the luxury of listening to a few of the other panelists before responding with my own answer which consisted of the following four steps.
+1. Reading Online Community Discussions to Survey Information At the broadest level, I like to stay abreast of new technologies and events by following topics of discussion.</description>
+    </item>
+    
+    <item>
+      <title>Operations Glossary</title>
+      <link>https://grokify.github.io/operations/glossary/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/operations/glossary/</guid>
+      <description>As with any field, it is important to have clear terms and definitions so people can communicate clearly and effectively. This page will serve as an ongoing glossary to cover common terms in IT Operations.
+The definitions for this page will be from a number of sources over time, but is currently from the following book which I’m in the process of reading: The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps</description>
+    </item>
+    
+    <item>
+      <title>Wildcard Subject Alternate Name SSL/TLS Certificates</title>
+      <link>https://grokify.github.io/security/wildcard-subject-alternative-name-ssl-tls-certificates/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/security/wildcard-subject-alternative-name-ssl-tls-certificates/</guid>
+      <description>&lt;p&gt;Managing hundreds or thousands of servers for SSL/TLS can be a challenge due to the potential number of certificates involved. To address this, I recently looked into combining two common management features of certificates, wildcard domain names and subject alternative names (SANs) into a “Wildcard SAN” certificate. Eventually I found that these certificates are in use but knowledge of them does not appear to be widespread.&lt;/p&gt;
+&lt;p&gt;The conclusion is that wildcard SAN certificates are supported by public and private CAs, are in use at major websites (Google and Yahoo) and appear to be safe for SMTP with some known limitations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Litecoin Mining with Ubuntu</title>
+      <link>https://grokify.github.io/litecoin/mining-with-ubuntu/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/litecoin/mining-with-ubuntu/</guid>
+      <description>This is a quick how-to on getting started with Litecoin mining on Ubuntu.
+Install AMD Catalyst Display Driver To use the AMD card for video, download and install the AMD Catalyst Display Driver for Linux.
+1$ unzip amd-catalyst-13.12-linux-x86.x86_64.zip 2$ chmod +x amd-catalyst-13.12-linux-x86.x86_64.run 3$ ./amd-catalyst-13.12-linux-x86.x86_64.run Install AMD OpenCL Install CGminer To install CGminer for GPU mining we will need header files from the AMD Display Library (ADL) SDK so download it from the AMD ADL page.</description>
+    </item>
+    
+    <item>
+      <title>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</title>
+      <link>https://grokify.github.io/operations/the-phoenix-project/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/operations/the-phoenix-project/</guid>
+      <description>Once an organization gets to a certain size, it becomes critically important to keep operations nimble to deliver against customer expectations. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win is a fictional story that helps one understand the complexities of operations.
+It is written by Gene Kim, Kevin Behr, and George Spafford and is a fictional story about how a company deals with IT Operations challenges and migrating from a dysfunctional organization into a high performing and optimized one using the concepts of Total Quality Mangement, Lean, and Systems Engineering.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo Compromised to Deliver Exploit Kits</title>
+      <link>https://grokify.github.io/security/yahoo-compromised-to-deliver-exploit-kits/</link>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/security/yahoo-compromised-to-deliver-exploit-kits/</guid>
+      <description>On February 3, Fox-IT posted a blog article on malicious advertisements being served via Yahoo! which was then discussed by CNN. The compromise was active from December 31, 2013 to February 3, 2014.
+Fox-IT identified a single IP address that was used to deliver the exploit kit and based on their same traffic, they estimated visits to the site at around 300k/hr. With a typical infection rate of 9%, this would result in a rate of 27,000 infections per hour.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Is Now Supported in Encode::Base58::GMP</title>
+      <link>https://grokify.github.io/bitcoin/now-supported-in-encode-base58-gmp/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/bitcoin/now-supported-in-encode-base58-gmp/</guid>
+      <description>&lt;p&gt;Base58 is a human-readable, protocol-safe encoding useful for case-sensitive encodings in cross-application situations such as URLs, databases, file systems, full-text indexes and others.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Tribute to Steve Jobs (1955-2011)</title>
+      <link>https://grokify.github.io/innovation/a-tribute-to-steve-jobs-1955-2011/</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/innovation/a-tribute-to-steve-jobs-1955-2011/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Thinking Differently&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Steve Jobs has passed away and the world has lost someone that showed what could be accomplished with a singular and distinctive vision. His was an approach that fused usability, appearance and functionality into a cohesive whole. I’ve read many of the tributes and articles and two of which that stood out from me were ons that showed him on a more personal level as told by Stephen Wolfram and Al Alcorn.&lt;/p&gt;
+&lt;p&gt;My condolences to his family, friends, and colleagues during this difficult time.&lt;/p&gt;
+&lt;p&gt;For my tribute, I’ll simply list a few of his quotations that helped focus his efforts on his and his team’s achievements.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Performance is a Feature</title>
+      <link>https://grokify.github.io/performance/is-a-feature/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/performance/is-a-feature/</guid>
+      <description>&lt;p&gt;The phrase “Performance is a Feature” has been growing in popularity. Lately, it’s importance for me is underlined by the fact the most common response I get from showing off my early-stage mailing list archive, Grokbase, is that “it’s fast.” I first heard this idea similarly phrased in &lt;a href=&#34;https://mashable.com/2011/03/24/think-quarterly/&#34;&gt;Google’s Think Quartlerly&lt;/a&gt; and then in &lt;a href=&#34;https://blog.codinghorror.com/performance-is-a-feature/&#34;&gt;Jeff Atwood’s Coding Horror&lt;/a&gt; which was &lt;a href=&#34;https://news.ycombinator.com/item?id=2676673&#34;&gt;covered on Hacker News&lt;/a&gt;. Matt Brittin, managing director of Google for UK and IE ops said it like this:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Keeping the Passion to Innovate Alive by Bill Clinton and Stevie Wonder</title>
+      <link>https://grokify.github.io/innovation/bill-clinton-and-stevie-wonder-on-keeping-the-passion-to-innovate-alive/</link>
+      <pubDate>Wed, 08 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/innovation/bill-clinton-and-stevie-wonder-on-keeping-the-passion-to-innovate-alive/</guid>
+      <description>&lt;p&gt;One of the treats of attending large technology conferences is the opportunity to hear inspirational speakers. These are my notes from the keynote addresses from Bill Clinton and Stevie Wonder at this year’s Dreamforce.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

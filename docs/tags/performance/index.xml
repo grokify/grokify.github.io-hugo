@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>performance on Grokify</title>
+    <link>https://grokify.github.io/tags/performance/</link>
+    <description>Recent content in performance on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 04 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance is a Feature</title>
+      <link>https://grokify.github.io/performance/is-a-feature/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/performance/is-a-feature/</guid>
+      <description>&lt;p&gt;The phrase “Performance is a Feature” has been growing in popularity. Lately, it’s importance for me is underlined by the fact the most common response I get from showing off my early-stage mailing list archive, Grokbase, is that “it’s fast.” I first heard this idea similarly phrased in &lt;a href=&#34;https://mashable.com/2011/03/24/think-quarterly/&#34;&gt;Google’s Think Quartlerly&lt;/a&gt; and then in &lt;a href=&#34;https://blog.codinghorror.com/performance-is-a-feature/&#34;&gt;Jeff Atwood’s Coding Horror&lt;/a&gt; which was &lt;a href=&#34;https://news.ycombinator.com/item?id=2676673&#34;&gt;covered on Hacker News&lt;/a&gt;. Matt Brittin, managing director of Google for UK and IE ops said it like this:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

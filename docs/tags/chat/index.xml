@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chat on Grokify</title>
+    <link>https://grokify.github.io/tags/chat/</link>
+    <description>Recent content in chat on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 09 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/chat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glip Inbound Webhook SDKs</title>
+      <link>https://grokify.github.io/glip/inbound-webhook-sdks/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/glip/inbound-webhook-sdks/</guid>
+      <description>&lt;p&gt;I recently put together two SDKs to wrap Glip’s inbound webhooks when there’s a desire to have data from other sites integrated into Glip alerts.&lt;/p&gt;
+&lt;p&gt;I originally built the library as a &lt;a href=&#34;https://github.com/grokify/glip-poster-ruby&#34;&gt;Ruby SDK&lt;/a&gt; since this is one of my go-to languages for quick prototyping, however, after learning that many chat users may not be developers with the means to run their own servers, I looked into writing this as a Google App and a Swift iOS app. The Google App is still in development but the &lt;a href=&#34;https://github.com/grokify/glip-sdk-swift&#34;&gt;Swift SDK&lt;/a&gt; is out.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

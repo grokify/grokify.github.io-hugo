@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on Grokify</title>
+    <link>https://grokify.github.io/tags/security/</link>
+    <description>Recent content in security on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 14 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Operations Glossary</title>
+      <link>https://grokify.github.io/operations/glossary/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/operations/glossary/</guid>
+      <description>As with any field, it is important to have clear terms and definitions so people can communicate clearly and effectively. This page will serve as an ongoing glossary to cover common terms in IT Operations.
+The definitions for this page will be from a number of sources over time, but is currently from the following book which I’m in the process of reading: The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps</description>
+    </item>
+    
+    <item>
+      <title>Wildcard Subject Alternate Name SSL/TLS Certificates</title>
+      <link>https://grokify.github.io/security/wildcard-subject-alternative-name-ssl-tls-certificates/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/security/wildcard-subject-alternative-name-ssl-tls-certificates/</guid>
+      <description>&lt;p&gt;Managing hundreds or thousands of servers for SSL/TLS can be a challenge due to the potential number of certificates involved. To address this, I recently looked into combining two common management features of certificates, wildcard domain names and subject alternative names (SANs) into a “Wildcard SAN” certificate. Eventually I found that these certificates are in use but knowledge of them does not appear to be widespread.&lt;/p&gt;
+&lt;p&gt;The conclusion is that wildcard SAN certificates are supported by public and private CAs, are in use at major websites (Google and Yahoo) and appear to be safe for SMTP with some known limitations.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

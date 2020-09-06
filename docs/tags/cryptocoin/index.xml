@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cryptocoin on Grokify</title>
+    <link>https://grokify.github.io/tags/cryptocoin/</link>
+    <description>Recent content in cryptocoin on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/cryptocoin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Litecoin Mining with Ubuntu</title>
+      <link>https://grokify.github.io/litecoin/mining-with-ubuntu/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/litecoin/mining-with-ubuntu/</guid>
+      <description>This is a quick how-to on getting started with Litecoin mining on Ubuntu.
+Install AMD Catalyst Display Driver To use the AMD card for video, download and install the AMD Catalyst Display Driver for Linux.
+1$ unzip amd-catalyst-13.12-linux-x86.x86_64.zip 2$ chmod +x amd-catalyst-13.12-linux-x86.x86_64.run 3$ ./amd-catalyst-13.12-linux-x86.x86_64.run Install AMD OpenCL Install CGminer To install CGminer for GPU mining we will need header files from the AMD Display Library (ADL) SDK so download it from the AMD ADL page.</description>
+    </item>
+    
+  </channel>
+</rss>

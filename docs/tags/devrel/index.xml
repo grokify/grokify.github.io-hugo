@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devrel on Grokify</title>
+    <link>https://grokify.github.io/tags/devrel/</link>
+    <description>Recent content in devrel on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 27 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/devrel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stack Overflow Reputation - From 0 to 2000</title>
+      <link>https://grokify.github.io/dev-relations/stack-overflow-reputation-from-0-to-2000/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/dev-relations/stack-overflow-reputation-from-0-to-2000/</guid>
+      <description>Stack Overflow is a great site for programming Q&amp;amp;A in general and a great resource for growing developer programs as well. From a developer program perspective, 2000 reputation is an ideal target since it provides the ability to edit any post, treating Stack Overflow more like a wiki, and the ability to create tags.
+When I was brought on as the head of Platform Product Management at RingCentral, I was also given the responsibility for building up our community efforts.</description>
+    </item>
+    
+  </channel>
+</rss>

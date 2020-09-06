@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>operations on Grokify</title>
+    <link>https://grokify.github.io/tags/operations/</link>
+    <description>Recent content in operations on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/operations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</title>
+      <link>https://grokify.github.io/operations/the-phoenix-project/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/operations/the-phoenix-project/</guid>
+      <description>Once an organization gets to a certain size, it becomes critically important to keep operations nimble to deliver against customer expectations. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win is a fictional story that helps one understand the complexities of operations.
+It is written by Gene Kim, Kevin Behr, and George Spafford and is a fictional story about how a company deals with IT Operations challenges and migrating from a dysfunctional organization into a high performing and optimized one using the concepts of Total Quality Mangement, Lean, and Systems Engineering.</description>
+    </item>
+    
+  </channel>
+</rss>

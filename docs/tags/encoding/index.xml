@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encoding on Grokify</title>
+    <link>https://grokify.github.io/tags/encoding/</link>
+    <description>Recent content in encoding on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 02 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin Is Now Supported in Encode::Base58::GMP</title>
+      <link>https://grokify.github.io/bitcoin/now-supported-in-encode-base58-gmp/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/bitcoin/now-supported-in-encode-base58-gmp/</guid>
+      <description>&lt;p&gt;Base58 is a human-readable, protocol-safe encoding useful for case-sensitive encodings in cross-application situations such as URLs, databases, file systems, full-text indexes and others.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

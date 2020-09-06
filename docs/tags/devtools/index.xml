@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devtools on Grokify</title>
+    <link>https://grokify.github.io/tags/devtools/</link>
+    <description>Recent content in devtools on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/devtools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Static Knowledgebase Idea</title>
+      <link>https://grokify.github.io/ideas/static-knowledgebase/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/ideas/static-knowledgebase/</guid>
+      <description>I was recently thinking about developer-oriented knowledgebases and thought it would be a great idea to build a knowledgebase on a static documentation engine like MkDocs or Sphinx. I imagine a project like this could be very useful to developer projects and would love to see it developed.
+This could be done by adding a knowledgebase layout homepage with an added search capability to build out a service similar to Desk.</description>
+    </item>
+    
+    <item>
+      <title>Read the Docs and Slate Integration Idea</title>
+      <link>https://grokify.github.io/ideas/readthedocs-slate-integration/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/ideas/readthedocs-slate-integration/</guid>
+      <description>Read the Docs and Slate are two great open source documentation tools. Each has advantages with Read the Docs supporting repo-based documentation and Slate supporting 3-column layout. These advantages make both very useful for documenting SDKs. Given that each has their own strengths, it would be great to be able to use these together. Here’s an idea for single sourcing content and publishing into both.
+Situation Read the Docs is powerful because it allows documentation to reside directly in a SDK repository.</description>
+    </item>
+    
+  </channel>
+</rss>

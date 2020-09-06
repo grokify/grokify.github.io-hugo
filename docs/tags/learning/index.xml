@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on Grokify</title>
+    <link>https://grokify.github.io/tags/learning/</link>
+    <description>Recent content in learning on Grokify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2020, John Wang; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 18 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grokify.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Learning Pipeline - How to Keep Learning</title>
+      <link>https://grokify.github.io/learning/the-learning-pipeline/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://grokify.github.io/learning/the-learning-pipeline/</guid>
+      <description>I was able to participate on Proofpoint’s Summer Intern panel discussion today and wanted to share my answer to one of the questions: how do you keep learning. When this question came up, I had the luxury of listening to a few of the other panelists before responding with my own answer which consisted of the following four steps.
+1. Reading Online Community Discussions to Survey Information At the broadest level, I like to stay abreast of new technologies and events by following topics of discussion.</description>
+    </item>
+    
+  </channel>
+</rss>

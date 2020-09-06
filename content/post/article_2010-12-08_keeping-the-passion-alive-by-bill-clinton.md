@@ -5,7 +5,8 @@ date = "2010-12-08"
 tags = [
     "innovation",
 ]
-url = "/innovation/bill-clinton-and-stevie-wonder-on-keeping-the-passion-to-innovate-alive/"
+url = "/innovation/bill-clinton-and-stevie-wonder-on-keeping-the-passion-to-innovate-alive"
+disqus_identifier = "/innovation/bill-clinton-and-stevie-wonder-on-keeping-the-passion-to-innovate-alive"
 +++
 
 One of the treats of attending large technology conferences is the opportunity to hear inspirational speakers. These are my notes from the keynote addresses from Bill Clinton and Stevie Wonder at this year’s Dreamforce.

@@ -5,7 +5,8 @@ date = "2014-08-18"
 tags = [
     "learning",
 ]
-url = "/learning/the-learning-pipeline/"
+url = "/learning/the-learning-pipeline"
+disqus_identifier = "/learning/the-learning-pipeline"
 +++
 
 I was able to participate on Proofpoint’s Summer Intern panel discussion today and wanted to share my answer to one of the questions: how do you keep learning. When this question came up, I had the luxury of listening to a few of the other panelists before responding with my own answer which consisted of the following four steps.

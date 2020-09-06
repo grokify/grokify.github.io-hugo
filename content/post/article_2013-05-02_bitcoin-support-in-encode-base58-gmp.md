@@ -5,7 +5,8 @@ date = "2013-05-02"
 tags = [
     "encoding",
 ]
-url = "/bitcoin/now-supported-in-encode-base58-gmp/"
+url = "/bitcoin/now-supported-in-encode-base58-gmp"
+disqus_identifier = "/bitcoin/now-supported-in-encode-base58-gmp"
 draft = false
 +++
 

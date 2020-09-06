@@ -5,8 +5,8 @@ date = "2016-03-27"
 tags = [
     "devrel",
 ]
-url = "/dev-relations/stack-overflow-reputation-from-0-to-2000"
 featured = true
+url = "/dev-relations/stack-overflow-reputation-from-0-to-2000"
 disqus_identifier = "/dev-relations/stack-overflow-reputation-from-0-to-2000"
 +++
 

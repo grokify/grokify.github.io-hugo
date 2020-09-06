@@ -5,7 +5,8 @@ date = "2016-02-09"
 tags = [
     "chat"
 ]
-url = "/glip/inbound-webhook-sdks/"
+url = "/glip/inbound-webhook-sdks"
+disqus_identifier = "/glip/inbound-webhook-sdks"
 +++
 
 I recently put together two SDKs to wrap Glip’s inbound webhooks when there’s a desire to have data from other sites integrated into Glip alerts.

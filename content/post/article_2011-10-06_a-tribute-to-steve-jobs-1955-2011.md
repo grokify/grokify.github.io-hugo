@@ -5,7 +5,8 @@ date = "2011-10-06"
 tags = [
     "innovation",
 ]
-url = "/innovation/a-tribute-to-steve-jobs-1955-2011/"
+url = "/innovation/a-tribute-to-steve-jobs-1955-2011"
+disqus_identifier = "/innovation/a-tribute-to-steve-jobs-1955-2011"
 featured = true
 +++
 

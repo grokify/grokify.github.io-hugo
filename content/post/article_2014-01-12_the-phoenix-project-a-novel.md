@@ -5,7 +5,8 @@ date = "2014-01-12"
 tags = [
     "operations","efficiency"
 ]
-url = "/operations/the-phoenix-project/"
+url = "/operations/the-phoenix-project"
+disqus_identifier = "/operations/the-phoenix-project"
 draft = false
 +++
 

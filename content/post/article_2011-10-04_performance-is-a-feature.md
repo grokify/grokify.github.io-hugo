@@ -5,7 +5,8 @@ date = "2011-10-04"
 tags = [
     "performance",
 ]
-url = "/performance/is-a-feature/"
+url = "/performance/is-a-feature"
+disqus_identifier = "/performance/is-a-feature"
 +++
 
 The phrase “Performance is a Feature” has been growing in popularity. Lately, it’s importance for me is underlined by the fact the most common response I get from showing off my early-stage mailing list archive, Grokbase, is that “it’s fast.” I first heard this idea similarly phrased in [Google’s Think Quartlerly](https://mashable.com/2011/03/24/think-quarterly/) and then in [Jeff Atwood’s Coding Horror](https://blog.codinghorror.com/performance-is-a-feature/) which was [covered on Hacker News](https://news.ycombinator.com/item?id=2676673). Matt Brittin, managing director of Google for UK and IE ops said it like this:

@@ -5,7 +5,8 @@ date = "2014-01-12"
 tags = [
     "cryptocoin",
 ]
-url = "/litecoin/mining-with-ubuntu/"
+url = "/litecoin/mining-with-ubuntu"
+disqus_identifier = "/litecoin/mining-with-ubuntu"
 +++
 
 This is a quick how-to on getting started with Litecoin mining on Ubuntu.

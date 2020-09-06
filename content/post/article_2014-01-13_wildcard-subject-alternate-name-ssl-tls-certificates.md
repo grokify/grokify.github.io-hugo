@@ -5,7 +5,8 @@ date = "2014-01-13"
 tags = [
     "security",
 ]
-url = "/security/wildcard-subject-alternative-name-ssl-tls-certificates/"
+url = "/security/wildcard-subject-alternative-name-ssl-tls-certificates"
+disqus_identifier = "/security/wildcard-subject-alternative-name-ssl-tls-certificates"
 +++
 
 Managing hundreds or thousands of servers for SSL/TLS can be a challenge due to the potential number of certificates involved. To address this, I recently looked into combining two common management features of certificates, wildcard domain names and subject alternative names (SANs) into a “Wildcard SAN” certificate. Eventually I found that these certificates are in use but knowledge of them does not appear to be widespread.

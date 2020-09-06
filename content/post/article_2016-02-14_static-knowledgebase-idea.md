@@ -5,7 +5,8 @@ date = "2016-02-14"
 tags = [
     "devtools",
 ]
-url = "/ideas/static-knowledgebase/"
+url = "/ideas/static-knowledgebase"
+disqus_identifier = "/ideas/static-knowledgebase"
 +++
 
 I was recently thinking about developer-oriented knowledgebases and thought it would be a great idea to build a knowledgebase on a static documentation engine like [MkDocs](https://www.mkdocs.org/) or [Sphinx](https://www.sphinx-doc.org/en/master/). I imagine a project like this could be very useful to developer projects and would love to see it developed.

@@ -5,7 +5,8 @@ date = "2014-01-14"
 tags = [
     "security",
 ]
-url = "/operations/glossary/"
+url = "/operations/glossary"
+disqus_identifier = "/operations/glossary"
 +++
 
 As with any field, it is important to have clear terms and definitions so people can communicate clearly and effectively. This page will serve as an ongoing glossary to cover common terms in IT Operations.

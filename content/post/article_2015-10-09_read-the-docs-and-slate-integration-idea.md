@@ -5,7 +5,8 @@ date = "2015-10-09"
 tags = [
     "devtools",
 ]
-url = "/ideas/readthedocs-slate-integration/"
+url = "/ideas/readthedocs-slate-integration"
+disqus_identifier = "/ideas/readthedocs-slate-integration"
 +++
 
 [Read the Docs](https://readthedocs.org/) and [Slate](https://github.com/slatedocs/slate) are two great open source documentation tools. Each has advantages with Read the Docs supporting repo-based documentation and Slate supporting 3-column layout. These advantages make both very useful for documenting SDKs. Given that each has their own strengths, it would be great to be able to use these together. Here’s an idea for single sourcing content and publishing into both.
